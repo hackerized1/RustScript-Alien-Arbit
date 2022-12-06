@@ -1,0 +1,6 @@
+C:\Users\Mert\Desktop\KeyAuth-CPP-Example-main\x64\Release\example.exe
+C:\Users\Mert\Desktop\Example\x64\Release\example.exe
+C:\Users\musti\OneDrive\Masaüstü\Example\x64\Release\example.exe
+C:\Users\musti\OneDrive\Belgeler\Example\x64\Release\example.exe
+C:\Users\musti\OneDrive\Masaüstü\RustScript\x64\Release\example.exe
+C:\Users\musti\OneDrive\Belgeler\RustScript\x64\Release\example.exe
